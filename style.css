@@ -1,0 +1,11 @@
+body
+{
+background-color:linear-gradient( #00ffdd 0% , #c8ff00 100%);
+}
+.my_nav_bar
+{
+position: sticky;
+top: 0;
+z-index: 99999;
+background-color: black;
+}
